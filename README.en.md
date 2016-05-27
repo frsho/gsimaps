@@ -1,4 +1,4 @@
-# gsimaps (GSI Maps)
+# gsimaps for frsho (my Maps)
 The source of GSI Maps, the web maps by Geospatial Information Authority of Japan (GSI,) Japan's National Geospatial Information Authority (NGIA.)
 
 ## GSI Maps, the web site
